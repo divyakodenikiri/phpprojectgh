@@ -18,8 +18,6 @@
             echo "This is PHP code inside html<br>";
             echo "My new project<br>";
             ?>
-
-            
             <h1>second php tag start</h1>
             <br><br>
         <?php

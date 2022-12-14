@@ -4,7 +4,7 @@
 <head>
     <style>
         h1 {
-            color: blue;
+            color: green;
         }
     </style>
 </head>
@@ -17,9 +17,9 @@
             <?php 
             echo "This is PHP code inside html<br>";
             echo "My new project<br>";
-            ?>
-
+          
             
+            ?>
             <h1>second php tag start</h1>
             <br><br>
         <?php

@@ -16,8 +16,8 @@
         <h2>
             <?php 
             echo "This is PHP code inside html<br>";
-            echo "My new project<br>";
-            echo "New text added"
+            echo "My new project"
+            echo "My new project"
         
             ?>
         </h2>
